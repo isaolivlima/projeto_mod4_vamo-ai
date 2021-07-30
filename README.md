@@ -1,5 +1,7 @@
 # Projeto final do módulo 4: Storytelling com Dados
 
+### *Projeto de finalização do módulo 4 do curso VAMO AÍ, uma parceria iFood e Resília Educação*
+
 ## Objetivo: 🎯
 
 Neste projeto, o objetivo da nossa squad foi montar dashboards no Tableau sobre uma base de dados,  
